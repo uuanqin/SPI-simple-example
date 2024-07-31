@@ -1,0 +1,2 @@
+fake=top.uuanqin.frame.internet.FakeConnection
+local=top.uuanqin.frame.internet.LocalConnection
